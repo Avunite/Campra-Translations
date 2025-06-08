@@ -1,6 +1,6 @@
-![Barkle Translations](https://media.barkle.chat/bk_/2962d0fa-ff2a-49e2-956f-e6f300ed4bd7.png)
+![Campra Translations](https://media.barkle.chat/bk_/2962d0fa-ff2a-49e2-956f-e6f300ed4bd7.png)
 
-# 🌎 Barkle Translation Project
+# 🌎 Campra Translation Project
 
 Welcome to the official translation project for Barkle.chat! We're on a mission to make Barkle accessible to users worldwide by providing high-quality translations for both our app and website.
 
@@ -70,7 +70,7 @@ Welcome to the official translation project for Barkle.chat! We're on a mission 
 - Create accurate and culturally appropriate translations
 - Build a multilingual community experience
 - Ensure consistent terminology across all languages
-- Maintain the friendly and engaging tone of Barkle
+- Maintain the friendly and engaging tone of Campra
 
 ## 📜 Translation Rules
 
@@ -79,20 +79,20 @@ To maintain the highest quality standards:
 - ❌ **No online translators** (Google Translate, DeepL, etc.)
 - ❌ **No AI-assisted translations**
 - ✅ **Only human-made translations** from native or fluent speakers
-- ✅ **Maintain context and tone** appropriate for the Barkle community
+- ✅ **Maintain context and tone** appropriate for the Campra community
 
 ## 🌟 Rewards
 
 Successfully approved translations will earn you:
-- 🏆 Official Translator Badge on your Barkle profile
+- 🏆 Official Translator Badge on your Campra profile
 - 🎉 Recognition in our growing international community
-- 👥 Opportunity to shape Barkle's global presence
+- 👥 Opportunity to shape Campra's global presence
 
 ## 🔄 Review Process
 
 1. **Initial Submission**
    - Submit PR on GitHub
-   - Post in Barkle translation channel
+   - Post in Campra translation channel
    
 2. **Review Phases**
    - Technical validation (JSON structure)
@@ -103,12 +103,12 @@ Successfully approved translations will earn you:
 3. **Approval**
    - Translation merged to main
    - Badge automatically awarded
-   - Implementation into Barkle platform
+   - Implementation into Campra platform
 
 ## 🤝 Support
 
 - **GitHub Issues**: For technical problems or suggestions
-- **Barkle Platform**: Contact @Barkle for general questions
+- **Campra Platform**: Contact @Campra for general questions
 - **Discord**: Join our translator community
 
 ## 🌍 Contributing Languages
@@ -123,7 +123,7 @@ We welcome translations for any language! Priority languages include:
 
 ## ⚠️ Quality Guidelines
 
-- Maintain Barkle's friendly tone
+- Maintain Campra's friendly tone
 - Use appropriate cultural references
 - Keep technical terms consistent
 - Preserve formatting and placeholders
@@ -142,4 +142,4 @@ The Translator Badge is awarded per language contribution. Multiple contribution
 
 ---
 
-*Join us in making Barkle a truly global community! Your expertise in languages helps us connect people worldwide.*
+*Join us in making Campra a truly global community! Your expertise in languages helps us connect people worldwide.*
